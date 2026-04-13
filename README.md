@@ -12,20 +12,6 @@ Real-time control examples
 * RC-522 RFID SPI interface
 * SCI Communications
 
-## Structure
-
-TI-Piccolo-Projects/
-
-project_*/
-
-src/
-
-include/
-
-README.md
-
-common/
-
 ## Requirements
 TI Piccolo (C2000) board
 Code Composer Studio (CCS)
